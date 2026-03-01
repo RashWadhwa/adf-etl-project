@@ -18,4 +18,3 @@
 
 ### Databricks also provides a managed Spark environment, which means that users can focus on their data processing and analytics tasks without worrying about infrastructure management. It offers features such as auto-scaling, optimized performance, and integration with various data sources and tools.
 
-![alt text](maindiagram.png)
