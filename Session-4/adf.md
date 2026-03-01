@@ -1,6 +1,4 @@
-
-
-
+# Created a few more pipelines using different source (tables, queries) and sink to different destinations using connectors such as JSON, Parquet, ADLS, and Blob Storage.
 
 ![alt text](images2/readyToDebug.png)
 
@@ -50,7 +48,7 @@ Published/deployed changes to the Data Factory.
 
 Now, the question is, can I use different dataset? No, as I change the dataset the option below changes too.
 
-### Different Scenario:
+### Different Scenario: Used lookup, if-else statement to achieve the desired outcome.
 
     - Lookup is not copying anything which is why no option for source or sink available.
     - The main goal is here to get a small piece of information.
